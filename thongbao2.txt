@@ -1,6 +1,1 @@
-@echo off
-@title Hello!
-echo Please download the new version at: vnhax.net
-color 20
-echo Please download the new version at: vnhax.net
-pause
+
