@@ -1,1 +1,6 @@
-Free VNHAX637878326839538757368335675642
+@echo off
+@title Hello!
+echo Please download the new version at: vnhax.net
+color 20
+echo Please download the new version at: vnhax.net
+pause
